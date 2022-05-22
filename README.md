@@ -1,9 +1,5 @@
 ## ft_printf
 
-This projects seeks to discover variadic functions in C in a particularly
-relevant context, as well as to learn about a great example of a basic
-“dispatcher” in C via the use of an array of function’s pointers. This projects
-represents a good exercise in programming, because of printf's versatility in C.
-The key to a successful ft_printf is a well-structured and good extensible code.
+This project is pretty straightforward, you have to recode printf. The aim is to learn what are variadic functions and how to implement them. Once it's validated, the function will be reused in future projects.
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com)
